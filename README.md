@@ -11,9 +11,9 @@ Používej Pull Requests!
 ### Ulohy
 
 * [24i](https://www.24i.com/about)
-  * [Frontend JavaScript zadani](https://docs.google.com/document/d/1XacV4ZcgBSaN8aUiYV6Z2-C3_mOxbdMRf9FsKhMIXrc/edit)
+  * [Frontend JavaScript zadani](https://docs.google.com/document/d/1XacV4ZcgBSaN8aUiYV6Z2-C3_mOxbdMRf9FsKhMIXrc/edit?usp=sharing)
 
-  * [Frontend React zadani](https://docs.google.com/document/d/1FfY-FIyRs6ZYK-RqNTiHN1cgp3ORQ7o2mzzLfOzwb-c/edit)
+  * [Frontend React zadani](https://docs.google.com/document/d/1FfY-FIyRs6ZYK-RqNTiHN1cgp3ORQ7o2mzzLfOzwb-c/edit?usp=sharing)
   
 * [JobStack](https://www.jobstack.it/)
   * [Frontend React + Redux + TypeScript](https://docs.google.com/document/d/1WuNn0h6WzztZQuGNG06oA1UIT2ugIO1AvimhOgm-p5Q/edit?usp=sharing)
