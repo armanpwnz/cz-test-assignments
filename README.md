@@ -15,6 +15,9 @@ Používej Pull Requests!
 
   * [Frontend React zadani](https://docs.google.com/document/d/1FfY-FIyRs6ZYK-RqNTiHN1cgp3ORQ7o2mzzLfOzwb-c/edit?usp=sharing)
   
+* [Ixperta](https://www.ixperta.com/)
+  * [Frontend React zadani](https://github.com/armanpwnz/cz-test-assignments/blob/main/ixperta/CALCULATIONS.md)
+  
 * [JobStack](https://www.jobstack.it/)
   * [Frontend React + Redux + TypeScript](https://docs.google.com/document/d/1WuNn0h6WzztZQuGNG06oA1UIT2ugIO1AvimhOgm-p5Q/edit?usp=sharing)
   
