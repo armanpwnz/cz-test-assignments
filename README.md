@@ -15,17 +15,20 @@ Používej Pull Requests!
 
   * [Frontend React zadani](https://docs.google.com/document/d/1FfY-FIyRs6ZYK-RqNTiHN1cgp3ORQ7o2mzzLfOzwb-c/edit)
   
+* [JobStack](https://www.jobstack.it/)
+  * [Frontend React + Redux + TypeScript](https://docs.google.com/document/d/1WuNn0h6WzztZQuGNG06oA1UIT2ugIO1AvimhOgm-p5Q/edit?usp=sharing)
+  
 * [Meiro](https://www.meiro.io/)
   * [Frontend zadani](https://github.com/ketys-from-meiro/fe-task)
   
 * [Muni-WebStudio](https://www.webstudio.team/)
-  * [Frontend Developer ](https://drive.google.com/file/d/1T3wlI6zhJYR7L50WYbKJaJ96LN9Xongj/view?usp=sharing)
+  * [Frontend zadani](https://drive.google.com/file/d/1T3wlI6zhJYR7L50WYbKJaJ96LN9Xongj/view?usp=sharing)
 
 * [Smartsupp](https://www.smartsupp.com/cs/about)
   * [Frontend React zadani](https://docs.google.com/document/d/1caABGfWhGlhh6JHUbrKCKqQipugquuc-GaxaJwGG6AY/edit?usp=sharing)
   
 * [UlovDomov](https://www.ulovdomov.cz/)
-  * [Frontend Developer (React, TypeScript)](https://docs.google.com/document/d/1UmHN9XWd2VqSTxFksSh2AmFIEYxNtXgGhW5fBQywuoM/edit)
+  * [Frontend React + TypeScript](https://docs.google.com/document/d/1UmHN9XWd2VqSTxFksSh2AmFIEYxNtXgGhW5fBQywuoM/edit)
 
 
 
